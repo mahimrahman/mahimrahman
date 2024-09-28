@@ -84,6 +84,14 @@ A passionate backend developer
 
 --- 
 
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=mahimrahmam&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=gotham&hide_border=false)
+
+---
+
 <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/output/snake.svg" alt="Snake animation" />
 
 ###
