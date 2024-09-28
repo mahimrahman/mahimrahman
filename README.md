@@ -86,13 +86,21 @@ A passionate backend developer
 
 ## 📊 GitHub Stats:
 
-<div style="display: flex; flex-direction: row;">
+GitHub's markdown parser doesn't support CSS like `display: flex`. However, you can still align images side by side using traditional HTML tables. Here's how you can do it:
 
- ![](https://github-readme-stats.vercel.app/api?username=mahimrahman&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
+```md
+## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=gotham&hide_border=false)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mahimrahman&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=gotham&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 ---
 
