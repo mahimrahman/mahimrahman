@@ -99,9 +99,9 @@ A passionate backend developer
 </table>
 
 ---
-![Mahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahimrahman&custom_title=Shafiq's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahimrahman&custom_title=Mahim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-[![Mahim's GitHub Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahimrahman&theme=radical)](https://github.com/mahimrahman)
+[![Mahim's GitHub Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahimrahman&theme=radical)]
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahimrahman&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahimrahman&theme=radical&utcOffset=8)
 ---
