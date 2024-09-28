@@ -93,7 +93,7 @@ A passionate backend developer
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahimrahman&theme=radical" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=gotham&hide_border=false" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=radical&border=7F3FBF&background=0D1117" />
     </td>
   </tr>
 </table>
@@ -101,9 +101,6 @@ A passionate backend developer
 ---
 ![Mahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahimrahman&custom_title=Mahim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahimrahman&theme=radical&utcOffset=8)
----
 
 <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/output/snake.svg" alt="" />
 
