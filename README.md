@@ -84,11 +84,7 @@ A passionate backend developer
 
 --- 
 
-## 📊 GitHub Stats:
 
-GitHub's markdown parser doesn't support CSS like `display: flex`. However, you can still align images side by side using traditional HTML tables. Here's how you can do it:
-
-```md
 ## 📊 GitHub Stats:
 
 <table>
