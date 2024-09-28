@@ -86,7 +86,11 @@ A passionate backend developer
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mahimrahman&theme=gotham&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=gotham&hide_border=false)
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahimrahman&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=gotham&hide_border=false" />
+</div>
+
 
 ---
 
