@@ -36,7 +36,7 @@ A passionate backend developer
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I have used</h2>
 
 
 
