@@ -38,10 +38,116 @@ A passionate backend developer
 
 <h2 align="left">I have used</h2>
 
+<table>
+  <thead>
+    <tr>
+      <th>Programming Languages</th>
+      <th>UI/UX</th>
+      <th>Frontend Technologies</th>
+      <th>API Technologies</th>
+      <th>Databases</th>
+      <th>Cloud</th>
+      <th>CI/CD</th>
+      <th>Tools</th>
+      <th>User Engagement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></td>
+      <td>Figma</td>
+      <td>NextJS</td>
+      <td>Asp.Net Core</td>
+      <td>Cassandra</td>
+      <td>Azure</td>
+      <td>Azure DevOps</td>
+      <td>Postman</td>
+      <td>Google Tag Manager</td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"  /></td>
+      <td></td>
+      <td>React Native</td>
+      <td>Entity Framework</td>
+      <td>Cosmos DB</td>
+      <td>Firebase</td>
+      <td></td>
+      <td>Git</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>C#</td>
+      <td></td>
+      <td>React JS</td>
+      <td>ADO.Net</td>
+      <td>MongoDB</td>
+      <td>Vercel</td>
+      <td></td>
+      <td>Jira</td>
+      <td>Microsoft Clarity</td>
+    </tr>
+    <tr>
+      <td>C++</td>
+      <td></td>
+      <td>Angular 2+</td>
+      <td>xUnit</td>
+      <td>MS SQL Server</td>
+      <td>Docker</td>
+      <td></td>
+      <td>Jupyter</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></td>
+      <td></td>
+      <td>ExpressJS</td>
+      <td>ExpressJS</td>
+      <td>MySQL</td>
+      <td></td>
+      <td></td>
+      <td>LaTeX</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></td>
+      <td></td>
+      <td>Jasmine</td>
+      <td>NodeJS</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /></td>
+      <td></td>
+      <td>Karma</td>
+      <td>PHP</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
   <img width="12" />
@@ -49,17 +155,17 @@ A passionate backend developer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -78,8 +184,7 @@ A passionate backend developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="40" alt="clojure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"  />
+  
 </div>
 
 --- 
