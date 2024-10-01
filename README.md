@@ -55,11 +55,12 @@ A passionate backend developer
   <tbody>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></td>
-      <td>Figma</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></td>
       <td>NextJS</td>
       <td>Asp.Net Core</td>
       <td>Cassandra</td>
-      <td>Azure</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" /></td>
       <td>Azure DevOps</td>
       <td>Postman</td>
       <td>Google Tag Manager</td>
@@ -70,7 +71,7 @@ A passionate backend developer
       <td>React Native</td>
       <td>Entity Framework</td>
       <td>Cosmos DB</td>
-      <td>Firebase</td>
+      <td></td>
       <td></td>
       <td>Git</td>
       <td></td>
@@ -81,7 +82,7 @@ A passionate backend developer
       <td>React JS</td>
       <td>ADO.Net</td>
       <td>MongoDB</td>
-      <td>Vercel</td>
+      <td></td>
       <td></td>
       <td>Jira</td>
       <td>Microsoft Clarity</td>
@@ -92,7 +93,7 @@ A passionate backend developer
       <td>Angular 2+</td>
       <td>xUnit</td>
       <td>MS SQL Server</td>
-      <td>Docker</td>
+      <td></td>
       <td></td>
       <td>Jupyter</td>
       <td></td>
@@ -111,7 +112,7 @@ A passionate backend developer
     <tr>
       <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></td>
       <td></td>
-      <td>Jasmine</td>
+      <td></td>
       <td>NodeJS</td>
       <td></td>
       <td></td>
@@ -157,8 +158,7 @@ A passionate backend developer
   <img width="12" />
   
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
+  
   
   <img width="12" />
 
@@ -173,7 +173,7 @@ A passionate backend developer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
