@@ -56,19 +56,19 @@ A passionate backend developer
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></td>
-      <td>NextJS</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></td>
       <td>Asp.Net Core</td>
       <td>Cassandra</td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" /></td>
+  </td>
       <td>Azure DevOps</td>
       <td>Postman</td>
       <td>Google Tag Manager</td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"  /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></td>
       <td></td>
-      <td>React Native</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></td>
       <td>Entity Framework</td>
       <td>Cosmos DB</td>
       <td></td>
@@ -77,7 +77,7 @@ A passionate backend developer
       <td></td>
     </tr>
     <tr>
-      <td>C#</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"/></td>
       <td></td>
       <td>React JS</td>
       <td>ADO.Net</td>
@@ -88,18 +88,7 @@ A passionate backend developer
       <td>Microsoft Clarity</td>
     </tr>
     <tr>
-      <td>C++</td>
-      <td></td>
-      <td>Angular 2+</td>
-      <td>xUnit</td>
-      <td>MS SQL Server</td>
-      <td></td>
-      <td></td>
-      <td>Jupyter</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /></td>
       <td></td>
       <td>ExpressJS</td>
       <td>ExpressJS</td>
@@ -110,8 +99,8 @@ A passionate backend developer
       <td></td>
     </tr>
     <tr>
-      <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></td>
-      <td></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"/></td>
+      <td> </td>
       <td></td>
       <td>NodeJS</td>
       <td></td>
@@ -121,7 +110,18 @@ A passionate backend developer
       <td></td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /></td>
+      <td></td>
+      <td></td>
+      <td>Angular 2+</td>
+      <td>xUnit</td>
+      <td>MS SQL Server</td>
+      <td></td>
+      <td></td>
+      <td>Jupyter</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
       <td></td>
       <td>Karma</td>
       <td>PHP</td>
@@ -132,7 +132,8 @@ A passionate backend developer
       <td></td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="40" alt="clojure logo"  />
+  </td>
       <td></td>
       <td></td>
       <td></td>
@@ -183,7 +184,6 @@ A passionate backend developer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="40" alt="clojure logo"  />
   
 </div>
 
