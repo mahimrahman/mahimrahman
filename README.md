@@ -110,7 +110,7 @@ A passionate backend developer
       <td></td>
     </tr>
     <tr>
-      <td></td>
+      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></td>
       <td></td>
       <td>Angular 2+</td>
       <td>xUnit</td>
@@ -164,7 +164,7 @@ A passionate backend developer
   <img width="12" />
 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+ 
   <img width="12" />
 
   <img width="12" />
