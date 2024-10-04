@@ -47,9 +47,9 @@ A passionate backend developer
       <th>API Technologies</th>
       <th>Databases</th>
       <th>Cloud</th>
-      <th>CI/CD</th>
+      <th>Mobile Development</th>
       <th>Tools</th>
-      <th>User Engagement</th>
+      <th>Graphics/3D Design</th>
     </tr>
   </thead>
   <tbody>
@@ -57,74 +57,78 @@ A passionate backend developer
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></td>
-      <td>Asp.Net Core</td>
-      <td>Cassandra</td>
+      <td></td>
+      <td></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   </td>
-      <td>Azure DevOps</td>
-      <td>Postman</td>
-      <td>Google Tag Manager</td>
+      <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+</td>
+      <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height ="40" alt="Latex" />
+          </td>
+      <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  /></td>
     </tr>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></td>
       <td></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></td>
-      <td>Entity Framework</td>
-      <td>Cosmos DB</td>
       <td></td>
       <td></td>
-      <td>Git</td>
       <td></td>
+      <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+</td>
+      <td></td>
+      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  /></td>
     </tr>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"/></td>
       <td></td>
-      <td>React JS</td>
-      <td>ADO.Net</td>
-      <td>MongoDB</td>
       <td></td>
       <td></td>
-      <td>Jira</td>
-      <td>Microsoft Clarity</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" /></td>
     </tr>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /></td>
       <td></td>
-      <td>ExpressJS</td>
-      <td>ExpressJS</td>
-      <td>MySQL</td>
       <td></td>
       <td></td>
-      <td>LaTeX</td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  /></td>
     </tr>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"/></td>
-      <td> </td>
-      <td></td>
-      <td>NodeJS</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  /></td>
     </tr>
     <tr>
       <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></td>
       <td></td>
-      <td>Angular 2+</td>
-      <td>xUnit</td>
-      <td>MS SQL Server</td>
       <td></td>
       <td></td>
-      <td>Jupyter</td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  /></td>
     </tr>
     <tr>
+      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  /></td>
       <td></td>
       <td></td>
-      <td>Karma</td>
-      <td>PHP</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -145,45 +149,7 @@ A passionate backend developer
     </tr>
   </tbody>
 </table>
-<br>
-
-
-<div align="left">
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  
-  <img width="12" />
-  
-  
-  <img width="12" />
-
-  <img width="12" />
- 
-  <img width="12" />
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
-  <img width="12" />
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
+<br>   
   
 </div>
 
