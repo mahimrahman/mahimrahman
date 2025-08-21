@@ -4,14 +4,14 @@
 
 ### I'm Mahimur Rahman Khan
 
-A passionate backend developer
+A passionate Software Engineer
 
 ## About me
 
 ###
 
-- 🌱 I’m currently learning **Play Framework** and **Sentiment Analysis with CNN**
-- 👯 I’m looking to collaborate on **Java** projects
+- 🌱 I’m currently learning **React Native App Development**
+- 👯 I’m looking to collaborate on **Java and React** projects
 - 📫 You can reach me at **mahimrk.a@gmail.com**
 
 ###
