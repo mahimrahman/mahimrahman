@@ -12,7 +12,7 @@ A passionate Software Engineer
 
 - 🌱 I’m currently learning **React Native App Development**
 - 👯 I’m looking to collaborate on **Java and React** projects
-- 📫 You can reach me at **mahimrk.a@gmail.com**
+- 📫 You can reach me at **@mahimrk.a@gmail.com**
 
 ###
 
