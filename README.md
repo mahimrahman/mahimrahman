@@ -4,7 +4,7 @@
 
 ### I'm Mahimur Rahman Khan
 
-A passionateEngineer Software Engineer
+A passionate Software Engineer
 
 ## About me
 
