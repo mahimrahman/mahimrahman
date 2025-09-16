@@ -1,79 +1,116 @@
-<!-- 🌟 Profile Banner -->
+<!-- ================================================================ -->
+<!-- ====================  Mahimur Rahman Khan  ===================== -->
+<!-- ================================================================ -->
+
+<h1 align="center">❖ Mahimur Rahman Khan ❖</h1>
+<p align="center"><b>Crafting code, experiences & ideas | Mobile & Web Dev | Designer</b></p>
+
+<!-- Unique Divider -->
 <p align="center">
-  <img src="https://github.com/mahimrahman.png" alt="Mahimur Rahman Khan" width="140" style="border-radius:50%; box-shadow: 0 4px 16px rgba(127,63,191,0.12);" />
+  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
 </p>
 
-<h1 align="center">✨ Mahimur Rahman Khan ✨</h1>
-<p align="center"><b>Software Engineer | Mobile & Web Developer | Designer</b></p>
-
-<!-- Social/Contact -->
+<!-- Unique Socials Section -->
 <p align="center">
-  <a href="mailto:mahimrk.a@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mahimurrahman-khan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/mahimrahman.khan"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.behance.net/mahimrahman"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-</p>
-<br />
-
-<!-- About Me -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=380&height=50&lines=Mobile+App+Developer;Web+Engineer;UI%2FUX+Designer;Open+Source+Contributor;Anime+Fan+%F0%9F%8E%A8" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-- 💻 Building apps with **React Native, Java, Python, and more**
-- 🎨 UI/UX enthusiast, blending design with technology
-- 🤝 Open to collaborations on **Java, React, and creative projects**
-- 📱 Exploring cross-platform mobile app development
-- ✉️ Reach me at [mahimrk.a@gmail.com](mailto:mahimrk.a@gmail.com)
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahimrahman&theme=onestar&title=Stars,Followers,Commit,Repositories" style="box-shadow: 0 4px 16px rgba(127,63,191,0.09);" />
+  <a href="mailto:mahimrk.a@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/mahimrk">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discordapp.com/users/mahimrk">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/mahimurrahman-khan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/mahimrahman.khan">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.behance.net/mahimrahman">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://github.com/mahimrahman">
+    <img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://open.spotify.com/user/mahimrk">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
 </p>
 
----
+<!-- Unique Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
+</p>
 
-## 📂 Featured Projects
-<table align="center">
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/mahimrahman/Math">Math</a></td>
-      <td>Advanced math visualizations and interactive learning</td>
-      <td>Python, JavaScript</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mahimrahman/Portfolio-JJKxDS-Themed">Portfolio (JJKxDS Themed)</a></td>
-      <td>Anime-themed portfolio site with elegant UI</td>
-      <td>React, CSS, JavaScript</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/mahimrahman/MonHeure-Mobile-App">MonHeure Mobile App</a></td>
-      <td>Mobile scheduling & productivity app</td>
-      <td>React Native, Firebase</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Iktisad/MathVisualizer">MathVisualizer</a></td>
-      <td>Collaborative math visualization tool</td>
-      <td>Python, D3.js</td>
-    </tr>
-  </tbody>
-</table>
+<!-- Animated Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-7F3FBF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-FFD700?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source-3DDC84?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
----
+<!-- Quote -->
+<blockquote align="center"><i>
+“Code is poetry, design is the rhythm.”<br>
+</i></blockquote>
 
-## 🛠️ Skills & Tools
+<!-- Unique Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
+</p>
 
-<!-- Your original skill table below -->
+## 💡 About Me
+
+> **Inventor at heart, developer by craft.**  
+> Always seeking challenges in mobile, web, and creative tech!  
+> - 📱 React Native, Android, cross-platform wizardry  
+> - 🎨 Figma, Illustrator, Photoshop for pixel-perfect UI  
+> - 🧑‍💻 Java, Python, JS, C++ for robust backend/frontend  
+> - 🌱 Learning new frameworks (Next.js, Flutter)  
+> - ✉️ Contact: [mahimrk.a@gmail.com](mailto:mahimrk.a@gmail.com)
+
+<!-- Progress Bars -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimrahman&layout=compact&theme=radical&hide=scss" />
+</p>
+
+<!-- Unique Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
+</p>
+
+## 🚀 Featured Projects
+
+```yaml
+- Math: Advanced math visualizations and interactive learning (Python, JavaScript)
+- Portfolio (JJKxDS Themed): Anime-themed, elegant UI (React, CSS, JS)
+- MonHeure Mobile App: Scheduling & productivity (React Native, Firebase)
+- MathVisualizer: Collaborative math visualization (Python, D3.js)
+```
+
+<!-- Unique Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
+</p>
+
+## ⚒️ Skills & Tools
+
+```txt
+Programming: Java, Python, C++, PHP, Erlang, JS, Gradle, Clojure
+UI/UX: Figma, Illustrator, Photoshop, Canva
+Frontend: HTML5, CSS3, React, Android
+Cloud/DevOps: Docker
+Mobile: Android, Android Studio, React Native
+Docs: LaTeX
+3D/Graphics: Blender, Maya, WordPress
+```
+
+<details>
+  <summary>Skills Table (click to expand)</summary>
+
 <table>
   <thead>
     <tr>
@@ -97,7 +134,7 @@
       <td></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /></td>
       <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="40" alt="Latex" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height=\"40\" alt=\"Latex\" /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  /></td>
     </tr>
     <tr>
@@ -179,34 +216,35 @@
     </tr>
   </tbody>
 </table>
-<br>   
+</details>
 
----
+<!-- Unique Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
+</p>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahimrahman&theme=radical" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahimrahman&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=radical&border=7F3FBF&background=0D1117" />
 </p>
 
----
-
-## 🌱 Activity Graph
+### 🌱 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahimrahman&custom_title=Mahim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF" alt="activity graph" />
 </p>
 
----
-
-## 🐍 Activity Snake
+### 🐍 Activity Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/output/snake.svg" alt="activity snake" />
 </p>
 
----
+<!-- Unique Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
+</p>
 
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
+<p align="center"><i>Thanks for visiting! 🚀</i></p>
