@@ -1,250 +1,229 @@
-<!-- ================================================================ -->
-<!-- ====================  Mahimur Rahman Khan  ===================== -->
-<!-- ================================================================ -->
+<!-- ========================================================= -->
+<!-- ================ Mahimur Rahman Khan ==================== -->
+<!-- ============== Purple Pixelated Gaming Theme ============ -->
+<!-- ========================================================= -->
 
-<h1 align="center">❖ Mahimur Rahman Khan ❖</h1>
-<p align="center"><b>Crafting code, experiences & ideas | Mobile & Web Dev | Designer</b></p>
-
-<!-- Unique Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=120&section=header&text=ENTERING%20GAME%20WORLD&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=40" />
 </p>
 
-<!-- Unique Socials Section -->
+<!-- Gaming Intro Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=████████████████████████████████;█%20%20MAHIMUR%20RAHMAN%20KHAN%20%20█;████████████████████████████████" alt="Name Banner" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLASS-SOFTWARE%20ENGINEER-9d4edd?style=for-the-badge&labelColor=240046" />
+  <img src="https://img.shields.io/badge/SUBCLASS-UI%2FUX%20DESIGNER-c77dff?style=for-the-badge&labelColor=240046" />
+</p>
+
+<!-- Player Status -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20ACHIEVEMENT-LEGENDARY%20CODER-9d4edd?style=for-the-badge&labelColor=240046" />
+  <img src="https://img.shields.io/badge/⚡%20POWER-UNLIMITED%20CREATIVITY-c77dff?style=for-the-badge&labelColor=240046" />
+  <img src="https://img.shields.io/badge/🎯%20STATUS-MISSION%20READY-e0aaff?style=for-the-badge&labelColor=240046" />
+  <img src="https://img.shields.io/badge/💎%20RANK-S%2B%20DEVELOPER-7209b7?style=for-the-badge&labelColor=240046" />
+</p>
+
+<!-- Loading Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2000&pause=1500&color=9D4EDD&center=true&vCenter=true&width=700&lines=▓▓▓▓+LOADING+PLAYER+DATA+▓▓▓▓;░░░░+INITIALIZING+CREATIVE+PROTOCOLS+░░░░;████+ACTIVATING+UI%2FUX+MODULES+████;▓▓▓▓+ENGAGING+OPEN+SOURCE+POWER+▓▓▓▓;░░░░+ENABLING+COLLABORATION+MODE+░░░░;████+READY+FOR+EPIC+MISSIONS+████!" alt="Loading Animation" />
+</p>
+
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:mahimrk.a@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧%20MAIL-SECURE%20CHANNEL-240046?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://t.me/mahimrk">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/💬%20TELEGRAM-INSTANT%20COMM-3c096c?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/mahimrk">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/🎙️%20DISCORD-VOICE%20CHAT-7209b7?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mahimurrahman-khan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/mahimrahman.khan">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/💼%20LINKEDIN-PROFESSIONAL-9d4edd?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://www.behance.net/mahimrahman">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://github.com/mahimrahman">
-    <img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/🎨%20BEHANCE-PORTFOLIO-c77dff?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/user/mahimrk">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
+    <img src="https://img.shields.io/badge/🎵%20SPOTIFY-PLAYLIST-e0aaff?style=for-the-badge&logoColor=240046" />
   </a>
 </p>
 
-<!-- Unique Divider -->
+<!-- Pixel Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
-<!-- Animated Badges -->
+<!-- Mission Statement -->
 <p align="center">
-  <img src="https://img.shields.io/badge/React%20Native-7F3FBF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FFD700?style=for-the-badge&logo=figma&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open%20Source-3DDC84?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎯%20QUEST%20OBJECTIVE-Leveling%20up%20the%20digital%20world%2C%20one%20pixel%20at%20a%20time-c77dff?style=for-the-badge&labelColor=240046" />
 </p>
 
-<!-- Quote -->
-<blockquote align="center"><i>
-“Code is poetry, design is the rhythm.”<br>
-</i></blockquote>
-
-<!-- Unique Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
+  <em>"Crafting legendary experiences that users love and writing code that developers worship."</em>
 </p>
 
-## 💡 About Me
-
-> **Inventor at heart, developer by craft.**  
-> Always seeking challenges in mobile, web, and creative tech!  
-> - 📱 React Native, Android, cross-platform wizardry  
-> - 🎨 Figma, Illustrator, Photoshop for pixel-perfect UI  
-> - 🧑‍💻 Java, Python, JS, C++ for robust backend/frontend  
-> - 🌱 Learning new frameworks (Next.js, Flutter)  
-> - ✉️ Contact: [mahimrk.a@gmail.com](mailto:mahimrk.a@gmail.com)
-
-<!-- Progress Bars -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimrahman&layout=compact&theme=radical&hide=scss" />
-</p>
-
-<!-- Unique Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
-</p>
-
-## 🚀 Featured Projects
-
-```yaml
-- Math: Advanced math visualizations and interactive learning (Python, JavaScript)
-- Portfolio (JJKxDS Themed): Anime-themed, elegant UI (React, CSS, JS)
-- MonHeure Mobile App: Scheduling & productivity (React Native, Firebase)
-- MathVisualizer: Collaborative math visualization (Python, D3.js)
-```
-
-<!-- Unique Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
-</p>
-
-## ⚒️ Skills & Tools
-
-```txt
-Programming: Java, Python, C++, PHP, Erlang, JS, Gradle, Clojure
-UI/UX: Figma, Illustrator, Photoshop, Canva
-Frontend: HTML5, CSS3, React, Android
-Cloud/DevOps: Docker
-Mobile: Android, Android Studio, React Native
-Docs: LaTeX
-3D/Graphics: Blender, Maya, WordPress
-```
-
-<details>
-  <summary>Skills Table (click to expand)</summary>
-
-<table>
-  <thead>
+<!-- Stats and GIF Side by Side -->
+<div align="center">
+  <table>
     <tr>
-      <th>Programming Languages</th>
-      <th>UI/UX</th>
-      <th>Frontend Technologies</th>
-      <th>API Technologies</th>
-      <th>Databases</th>
-      <th>Cloud</th>
-      <th>Mobile Development</th>
-      <th>Tools</th>
-      <th>Graphics/3D Design</th>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mahimrahman&show_icons=true&theme=tokyonight&border_color=9d4edd&bg_color=240046&title_color=c77dff&icon_color=e0aaff&text_color=ffffff&hide_border=false" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="200" />
+      </td>
     </tr>
-  </thead>
-  <tbody>
+  </table>
+</div>
+
+<!-- Profile Details -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahimrahman&theme=tokyonight&border_color=9d4edd" />
+</p>
+
+<!-- Keep Original Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=radical&border=42c6ff&background=212121" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahimrahman&bg_color=240046&color=9d4edd&line=c77dff&point=e0aaff&area=true&hide_border=false&border_color=9d4edd&custom_title=EPIC%20CODING%20ADVENTURES%20-%20GITHUB%20QUESTS" />
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/output/snake.svg" alt="GitHub Snake" />
+</p>
+
+<!-- Pixel Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</p>
+
+<!-- Technical Skills Header -->
+<h2 align="center">🛠️ TECHNICAL EXPERTISE</h2>
+
+<!-- Skills Section -->
+<div align="center">
+  <table>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /></td>
-      <td></td>
-      <td></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  /></td>
-      <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height=\"40\" alt=\"Latex\" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  /></td>
+      <td width="50%" valign="top">
+        <h3 align="center">💻 Programming Languages</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Java-240046?style=for-the-badge&logo=openjdk&logoColor=e0aaff" />
+          <img src="https://img.shields.io/badge/Python-3c096c?style=for-the-badge&logo=python&logoColor=9d4edd" />
+          <img src="https://img.shields.io/badge/C++-7209b7?style=for-the-badge&logo=c%2B%2B&logoColor=c77dff" />
+          <img src="https://img.shields.io/badge/JavaScript-240046?style=for-the-badge&logo=javascript&logoColor=e0aaff" />
+          <img src="https://img.shields.io/badge/PHP-3c096c?style=for-the-badge&logo=php&logoColor=9d4edd" />
+          <img src="https://img.shields.io/badge/Erlang-7209b7?style=for-the-badge&logo=erlang&logoColor=c77dff" />
+          <img src="https://img.shields.io/badge/Clojure-240046?style=for-the-badge&logo=clojure&logoColor=e0aaff" />
+          <img src="https://img.shields.io/badge/Gradle-3c096c?style=for-the-badge&logo=gradle&logoColor=9d4edd" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">📱 Frontend & Mobile Development</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-240046?style=for-the-badge&logo=react&logoColor=e0aaff" />
+          <img src="https://img.shields.io/badge/HTML5-3c096c?style=for-the-badge&logo=html5&logoColor=9d4edd" />
+          <img src="https://img.shields.io/badge/CSS3-7209b7?style=for-the-badge&logo=css3&logoColor=c77dff" />
+          <img src="https://img.shields.io/badge/Android-240046?style=for-the-badge&logo=android&logoColor=e0aaff" />
+          <img src="https://img.shields.io/badge/React_Native-3c096c?style=for-the-badge&logo=react&logoColor=9d4edd" />
+          <img src="https://img.shields.io/badge/Android_Studio-7209b7?style=for-the-badge&logo=android-studio&logoColor=c77dff" />
+        </p>
+      </td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></td>
-      <td></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  /></td>
-      <td></td>
-      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  /></td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎨 Design & Graphics</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Figma-240046?style=for-the-badge&logo=figma&logoColor=e0aaff" />
+          <img src="https://img.shields.io/badge/Adobe%20Illustrator-3c096c?style=for-the-badge&logo=adobe%20illustrator&logoColor=9d4edd" />
+          <img src="https://img.shields.io/badge/Adobe%20Photoshop-7209b7?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=c77dff" />
+          <img src="https://img.shields.io/badge/Canva-240046?style=for-the-badge&logo=Canva&logoColor=e0aaff" />
+          <img src="https://img.shields.io/badge/Blender-3c096c?style=for-the-badge&logo=blender&logoColor=9d4edd" />
+          <img src="https://img.shields.io/badge/Maya-7209b7?style=for-the-badge&logoColor=c77dff" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">⚙️ Development Tools</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Docker-240046?style=for-the-badge&logo=docker&logoColor=e0aaff" />
+          <img src="https://img.shields.io/badge/LaTeX-3c096c?style=for-the-badge&logo=LaTeX&logoColor=9d4edd" />
+          <img src="https://img.shields.io/badge/WordPress-7209b7?style=for-the-badge&logo=wordpress&logoColor=c77dff" />
+          <img src="https://img.shields.io/badge/Git-240046?style=for-the-badge&logo=git&logoColor=e0aaff" />
+          <img src="https://img.shields.io/badge/GitHub-3c096c?style=for-the-badge&logo=github&logoColor=9d4edd" />
+        </p>
+      </td>
     </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"/></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="40" alt="erlang logo"/></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  /></td>
-    </tr>
-    <tr>
-      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  /></td>
-    </tr>
-    <tr>
-      <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  /></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" height="40" alt="clojure logo"  /></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-</details>
+  </table>
+</div>
 
-<!-- Unique Divider -->
+<!-- Detailed Skills List -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
+  <strong>Languages:</strong> Java, Python, C++, PHP, JavaScript, Erlang, Gradle, Clojure<br>
+  <strong>Frontend:</strong> HTML5, CSS3, React, Android<br>
+  <strong>UI/UX:</strong> Figma, Illustrator, Photoshop, Canva<br>
+  <strong>Cloud/DevOps:</strong> Docker<br>
+  <strong>Mobile:</strong> Android, Android Studio, React Native<br>
+  <strong>Documentation:</strong> LaTeX<br>
+  <strong>3D/Graphics:</strong> Blender, Maya, WordPress
 </p>
 
-## 📈 GitHub Stats & Activity
-
+<!-- Pixel Divider -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahimrahman&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahimrahman&theme=radical" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
 
-### 🌱 Activity Graph
+<!-- Top Repositories -->
+<h2 align="center">🚀 TOP REPOSITORIES</h2>
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/mahimrahman/mahimrahman">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=mahimrahman&theme=tokyonight&border_color=9d4edd&bg_color=240046&title_color=c77dff&icon_color=e0aaff&text_color=ffffff" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/mahimrahman/Portfolio-JJKxDS-Themed">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=Portfolio-JJKxDS-Themed&theme=tokyonight&border_color=9d4edd&bg_color=240046&title_color=c77dff&icon_color=e0aaff&text_color=ffffff" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/mahimrahman/Math">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=Math&theme=tokyonight&border_color=9d4edd&bg_color=240046&title_color=c77dff&icon_color=e0aaff&text_color=ffffff" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/mahimrahman/MonHeure-Mobile-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=MonHeure-Mobile-App&theme=tokyonight&border_color=9d4edd&bg_color=240046&title_color=c77dff&icon_color=e0aaff&text_color=ffffff" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <h2>🎮 QUEST COMPLETED</h2>
+  <p><em>Thanks for visiting my legendary profile! Ready to embark on epic coding adventures together?</em></p>
+  <img src="https://img.shields.io/badge/STATUS-LEGENDARY%20DEVELOPER%20ONLINE-9d4edd?style=for-the-badge&labelColor=240046" />
+</div>
+
+<!-- Animated Footer -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahimrahman&custom_title=Mahim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF" alt="activity graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=120&section=footer&text=GAME%20SESSION%20COMPLETE&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=80" />
 </p>
 
-### 🐍 Activity Snake
-
+<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/output/snake.svg" alt="activity snake" />
+  <img src="https://komarev.com/ghpvc/?username=mahimrahman&style=for-the-badge&color=9d4edd&label=LEGENDARY%20VISITORS" />
 </p>
-
-<!-- Unique Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/.github/divider.svg" height="6" />
-</p>
-
-<p align="center"><i>Thanks for visiting! 🚀</i></p>
