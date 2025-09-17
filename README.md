@@ -9,27 +9,21 @@
 
 <!-- Gaming Intro Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=████████████████████████████████;█%20%20MAHIMUR%20RAHMAN%20KHAN%20%20█;████████████████████████████████" alt="Name Banner" />
+  <!-- Epic Pixelated Name Banner Section -->
+<div align="center">
+  
+  <!-- System Boot Message -->
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&duration=2000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=SYSTEM+INITIALIZING...;LOADING+PLAYER+PROFILE...;ACCESS+GRANTED!" alt="Boot Message" />
+  
+  <!-- Alternative Name Display using Image -->
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=2000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&height=60&lines=MAHIMUR+RAHMAN+KHAN;SOFTWARE+ENGINEER+%7C+UI%2FUX+DESIGNER" alt="Name and Title" />
+
 </div>
 
+<!-- Pixel Divider -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CLASS-SOFTWARE%20ENGINEER-9d4edd?style=for-the-badge&labelColor=240046" />
-  <img src="https://img.shields.io/badge/SUBCLASS-UI%2FUX%20DESIGNER-c77dff?style=for-the-badge&labelColor=240046" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </p>
-
-<!-- Player Status -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆%20ACHIEVEMENT-LEGENDARY%20CODER-9d4edd?style=for-the-badge&labelColor=240046" />
-  <img src="https://img.shields.io/badge/⚡%20POWER-UNLIMITED%20CREATIVITY-c77dff?style=for-the-badge&labelColor=240046" />
-  <img src="https://img.shields.io/badge/🎯%20STATUS-MISSION%20READY-e0aaff?style=for-the-badge&labelColor=240046" />
-  <img src="https://img.shields.io/badge/💎%20RANK-S%2B%20DEVELOPER-7209b7?style=for-the-badge&labelColor=240046" />
-</p>
-
-<!-- Loading Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=2000&pause=1500&color=9D4EDD&center=true&vCenter=true&width=700&lines=▓▓▓▓+LOADING+PLAYER+DATA+▓▓▓▓;░░░░+INITIALIZING+CREATIVE+PROTOCOLS+░░░░;████+ACTIVATING+UI%2FUX+MODULES+████;▓▓▓▓+ENGAGING+OPEN+SOURCE+POWER+▓▓▓▓;░░░░+ENABLING+COLLABORATION+MODE+░░░░;████+READY+FOR+EPIC+MISSIONS+████!" alt="Loading Animation" />
-</p>
-
 <!-- Social Links -->
 <p align="center">
   <a href="mailto:mahimrk.a@gmail.com">
