@@ -165,7 +165,6 @@
   <strong>Cloud/DevOps:</strong> Docker<br>
   <strong>Mobile:</strong> Android, Android Studio, React Native<br>
   <strong>Documentation:</strong> LaTeX<br>
-  <strong>3D/Graphics:</strong> Blender
 </p>
 
 <!-- Pixel Divider -->
