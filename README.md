@@ -163,7 +163,6 @@
   <strong>Frontend:</strong> HTML5, CSS3, React, Android<br>
   <strong>UI/UX:</strong> Figma, Illustrator, Photoshop, Canva<br>
   <strong>Cloud/DevOps:</strong> Docker<br>
-  <strong>Mobile:</strong> Android, Android Studio, React Native<br>
 </p>
 
 <!-- Pixel Divider -->
