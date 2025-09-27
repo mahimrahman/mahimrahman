@@ -164,7 +164,6 @@
   <strong>UI/UX:</strong> Figma, Illustrator, Photoshop, Canva<br>
   <strong>Cloud/DevOps:</strong> Docker<br>
   <strong>Mobile:</strong> Android, Android Studio, React Native<br>
-  <strong>Documentation:</strong> LaTeX<br>
 </p>
 
 <!-- Pixel Divider -->
