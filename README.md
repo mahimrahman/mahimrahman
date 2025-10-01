@@ -161,7 +161,8 @@
 <p align="center">
   <strong>Languages:</strong> Java, Python, C++, PHP, JavaScript, Erlang, Gradle<br>
   <strong>Frontend:</strong> HTML5, CSS3, React, Android<br>
-  <strong>UI/UX:</strong> Figma, Illustrator, Photoshop
+  <strong>UI/UX:</strong> Figma, Illustrator,
+  
 
 <!-- Pixel Divider -->
 <p align="center">
