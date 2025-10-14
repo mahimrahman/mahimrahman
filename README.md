@@ -161,7 +161,7 @@
 <p align="center">
   <strong>Languages:</strong> Java, Python, C++, PHP, JavaScript, Erlang, Gradle<br>
   <strong>Frontend:</strong> HTML5, CSS3, React, Android<br>
-  <strong>UI/UX:</str
+  <strong>UI/UX:</st
   
 
 <!-- Pixel Divider -->
