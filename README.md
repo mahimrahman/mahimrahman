@@ -160,7 +160,7 @@
 <!-- Detailed Skills List -->
 <p align="center">
   <strong>Languages:</strong> Java, Python, C++, PHP, JavaScript, Erlang, Gradle<br>
-  <strong>Frontend:</strong> HTML5, CSS3, React, Android<br> <p>Figma</p>
+  <strong>Frontend:</strong> HTML5, CSS3, React, Android<br> <p>Figma</p
   
 
 <!-- Pixel Divider -->
