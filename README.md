@@ -65,6 +65,7 @@
   <table>
     <tr>
       <td align="center">
+        [!Mahim's Github Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=mahimrahman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/mahimrahman)
         <img src="https://github-readme-stats.vercel.app/api?username=mahimrahman&show_icons=true&theme=tokyonight&border_color=9d4edd&bg_color=240046&title_color=c77dff&icon_color=e0aaff&text_color=ffffff&hide_border=false" alt="GitHub Stats" />
       </td>
       <td align="center">
