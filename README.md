@@ -60,16 +60,19 @@
   <em>"Crafting legendary experiences that users love and writing code that developers worship."</em>
 </p>
 
+
 <!-- Stats and GIF Side by Side -->
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        [!Mahim's Github Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=mahimrahman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/mahimrahman)
-        <img src="https://github-readme-stats.vercel.app/api?username=mahimrahman&show_icons=true&theme=tokyonight&border_color=9d4edd&bg_color=240046&title_color=c77dff&icon_color=e0aaff&text_color=ffffff&hide_border=false" alt="GitHub Stats" />
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahimrahman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/mahimrahman"/>
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="200" />
+      </td>
+       <td align="center">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mahimrahman&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/mahimrahman"/>
       </td>
     </tr>
   </table>
