@@ -165,7 +165,7 @@
 <p align="center">
   <strong>Languages:</strong> Java, Python, C++, PHP, JavaScript, Erlang, Gradle<br>
   <strong>Frontend:</strong> HTML5, CSS3, React, Typescript<br>
-    <strong> Development Tools</strong> Docke
+    <strong> Development Tools</strong> Dock
 
 <!-- Pixel Divider -->
 <p align="center">
