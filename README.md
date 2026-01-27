@@ -84,9 +84,7 @@
 </p>
 
 <!-- Keep Original Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=radical&border=42c6ff&background=212121" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mahimrahman&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <!-- Activity Graph -->
 <p align="center">
