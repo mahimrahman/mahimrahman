@@ -84,8 +84,11 @@
 </p>
 
 <!-- Keep Original Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahimrahman&theme=blue-green)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=radical&border=42c6ff&background=212121" />
+</p>
 
+  
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahimrahman&bg_color=240046&color=9d4edd&line=c77dff&point=e0aaff&area=true&hide_border=false&border_color=9d4edd&custom_title=EPIC%20CODING%20ADVENTURES%20-%20GITHUB%20QUESTS" />
