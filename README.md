@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,17&height=120&section=header&text=ENTERING%20GAME%20WORLD&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=40" />
-</p>/
+</p>
 
 <!-- Gaming Intro Section -->
 <div align="center">
