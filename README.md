@@ -66,7 +66,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mahimrahman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/mahimrahman"/>
+          <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&fontFamily=&preferLogin=false&Points.DirectStars=5&Ring=DD6791">    <img  alt="mahimrahman's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mahimrahman?cardType=level&theme=dracula&fontFamily=&preferLogin=false&Points.DirectStars=5&Ring=DD6791" />  </a>
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="200" />
