@@ -87,6 +87,10 @@
 ![Canva](https://img.shields.io/badge/Canva-161b22?style=flat-square&logo=canva&logoColor=00C4CC)
 ![LaTeX](https://img.shields.io/badge/LaTeX-161b22?style=flat-square&logo=latex&logoColor=008080)
 
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,cpp,js,ts,react,html,css,php,docker,postgres,git,github,figma,ai,ps,blender,androidstudio,latex&theme=dark&perline=10" />
+
 </div>
 
 <br/>
@@ -106,11 +110,18 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahimrahman&theme=github-dark-blue&border=21262d&background=0d1117&stroke=21262d&ring=58A6FF&fire=ff7b72&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=mahimrahman&theme=github-dark-blue&border=21262d&background=0d1117&stroke=21262d&ring=58A6FF&fire=ff7b72&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahimrahman&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<table>
+<tr>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahimrahman&theme=github_dark&border_color=21262d" /></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahimrahman&theme=github_dark&border_color=21262d" /></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahimrahman&theme=github_dark&border_color=21262d" /></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahimrahman&theme=github_dark&border_color=21262d&utcOffset=6" /></td>
+</tr>
+</table>
 
 </div>
 
@@ -180,7 +191,31 @@
 ## &nbsp;`06` &nbsp;Contribution Trail
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/output/snake.svg" alt="Contribution Snake" />
+
+<img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" />
+
+</div>
+
+<br/>
+
+<details>
+<summary>&nbsp;&nbsp;<b>3D Contribution Graph</b> &nbsp;— click to expand</summary>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+</details>
+
+<br/>
+
+---
+
+## &nbsp;`07` &nbsp;Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-mahimrahman.vercel.app/api/spotify)](https://open.spotify.com/user/mahimrk)
+
 </div>
 
 <br/>
