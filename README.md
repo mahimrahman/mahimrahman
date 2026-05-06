@@ -144,36 +144,52 @@
 </div>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="10">
+<table border="0" cellspacing="0" cellpadding="16">
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/mahimrahman/Doable">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=Doable&theme=github_dark&border_color=A11D2C&bg_color=0d1117&title_color=F4C430&icon_color=F4C430&text_color=fff8e1&show_owner=true" />
-</a>
+[![Doable](https://img.shields.io/badge/Doable-A11D2C?style=for-the-badge&logo=openai&logoColor=F4C430)](https://github.com/mahimrahman/Doable)
+
+AI-powered app that builds personalized activity-based itineraries using location, weather, schedule, budget & transport mode.
+
+![](https://img.shields.io/badge/AI--Powered-0d1117?style=flat-square&logo=openai&logoColor=F4C430)
+![](https://img.shields.io/github/stars/mahimrahman/Doable?style=flat-square&color=A11D2C&labelColor=0d1117&logo=github&logoColor=F4C430&label=stars)
+![](https://img.shields.io/github/forks/mahimrahman/Doable?style=flat-square&color=A11D2C&labelColor=0d1117&logo=github&logoColor=F4C430&label=forks)
 
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/mahimrahman/Portfolio-JJKxDS-Themed">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=Portfolio-JJKxDS-Themed&theme=github_dark&border_color=A11D2C&bg_color=0d1117&title_color=F4C430&icon_color=F4C430&text_color=fff8e1&show_owner=true" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio%20JJK%20×%20DS-A11D2C?style=for-the-badge&logo=figma&logoColor=F4C430)](https://github.com/mahimrahman/Portfolio-JJKxDS-Themed)
+
+Personal portfolio with a Jujutsu Kaisen × Demon Slayer visual theme. Built for the aesthetic.
+
+![](https://img.shields.io/badge/Frontend-0d1117?style=flat-square&logo=react&logoColor=F4C430)
+![](https://img.shields.io/github/stars/mahimrahman/Portfolio-JJKxDS-Themed?style=flat-square&color=A11D2C&labelColor=0d1117&logo=github&logoColor=F4C430&label=stars)
+![](https://img.shields.io/github/forks/mahimrahman/Portfolio-JJKxDS-Themed?style=flat-square&color=A11D2C&labelColor=0d1117&logo=github&logoColor=F4C430&label=forks)
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/mahimrahman/Whereto-Campus_Study_Space_Finder">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=Whereto-Campus_Study_Space_Finder&theme=github_dark&border_color=A11D2C&bg_color=0d1117&title_color=F4C430&icon_color=F4C430&text_color=fff8e1&show_owner=true" />
-</a>
+[![WhereTo](https://img.shields.io/badge/WhereTo-A11D2C?style=for-the-badge&logo=googlemaps&logoColor=F4C430)](https://github.com/mahimrahman/Whereto-Campus_Study_Space_Finder)
+
+Find the best study spots on campus. Location-aware, real-time availability.
+
+![](https://img.shields.io/badge/Mobile%20App-0d1117?style=flat-square&logo=android&logoColor=F4C430)
+![](https://img.shields.io/github/stars/mahimrahman/Whereto-Campus_Study_Space_Finder?style=flat-square&color=A11D2C&labelColor=0d1117&logo=github&logoColor=F4C430&label=stars)
+![](https://img.shields.io/github/forks/mahimrahman/Whereto-Campus_Study_Space_Finder?style=flat-square&color=A11D2C&labelColor=0d1117&logo=github&logoColor=F4C430&label=forks)
 
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/mahimrahman/MonHeure">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=MonHeure&theme=github_dark&border_color=A11D2C&bg_color=0d1117&title_color=F4C430&icon_color=F4C430&text_color=fff8e1&show_owner=true" />
-</a>
+[![MonHeure](https://img.shields.io/badge/MonHeure-A11D2C?style=for-the-badge&logo=clockify&logoColor=F4C430)](https://github.com/mahimrahman/MonHeure)
+
+Time tracking app built for students and freelancers. Clean, minimal, effective.
+
+![](https://img.shields.io/badge/Productivity-0d1117?style=flat-square&logo=notion&logoColor=F4C430)
+![](https://img.shields.io/github/stars/mahimrahman/MonHeure?style=flat-square&color=A11D2C&labelColor=0d1117&logo=github&logoColor=F4C430&label=stars)
+![](https://img.shields.io/github/forks/mahimrahman/MonHeure?style=flat-square&color=A11D2C&labelColor=0d1117&logo=github&logoColor=F4C430&label=stars)
 
 </td>
 </tr>
