@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/straw-hat.jpg" alt="Straw Hat" width="520" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=D7263D&center=true&vCenter=true&multiline=false&width=720&lines=Designing+systems+that+think.+Interfaces+that+feel.;Java+%E2%86%92+Spring+Boot+%E2%86%92+React+%E2%86%92+TypeScript+%E2%86%92+PostgreSQL;I+build+products+end-to-end%2C+from+DB+to+pixel." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4500&pause=3000&color=D7263D&center=true&vCenter=true&width=720&speed=999&lines=Designing+systems+that+think.+Interfaces+that+feel.;Java+%E2%86%92+Spring+Boot+%E2%86%92+React+%E2%86%92+TypeScript+%E2%86%92+PostgreSQL;I+build+products+end-to-end%2C+from+DB+to+pixel." alt="Rotating text" />
 
 </div>
 
