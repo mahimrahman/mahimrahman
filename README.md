@@ -148,15 +148,15 @@
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/mahimrahman/mahimrahman">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=mahimrahman&theme=github_dark&border_color=A11D2C&bg_color=0a1f3d&title_color=F4C430&icon_color=F4C430&text_color=fff8e1" />
+<a href="https://github.com/mahimrahman/Doable">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=Doable&theme=github_dark&border_color=A11D2C&bg_color=0d1117&title_color=F4C430&icon_color=F4C430&text_color=fff8e1&show_owner=true" />
 </a>
 
 </td>
 <td width="50%" align="center">
 
 <a href="https://github.com/mahimrahman/Portfolio-JJKxDS-Themed">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=Portfolio-JJKxDS-Themed&theme=github_dark&border_color=A11D2C&bg_color=0a1f3d&title_color=F4C430&icon_color=F4C430&text_color=fff8e1" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=Portfolio-JJKxDS-Themed&theme=github_dark&border_color=A11D2C&bg_color=0d1117&title_color=F4C430&icon_color=F4C430&text_color=fff8e1&show_owner=true" />
 </a>
 
 </td>
@@ -164,15 +164,15 @@
 <tr>
 <td width="50%" align="center">
 
-<a href="https://github.com/mahimrahman/MonHeure-Mobile-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=MonHeure-Mobile-App&theme=github_dark&border_color=A11D2C&bg_color=0a1f3d&title_color=F4C430&icon_color=F4C430&text_color=fff8e1" />
+<a href="https://github.com/mahimrahman/Whereto-Campus_Study_Space_Finder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=Whereto-Campus_Study_Space_Finder&theme=github_dark&border_color=A11D2C&bg_color=0d1117&title_color=F4C430&icon_color=F4C430&text_color=fff8e1&show_owner=true" />
 </a>
 
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/mahimrahman/Math">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=Math&theme=github_dark&border_color=A11D2C&bg_color=0a1f3d&title_color=F4C430&icon_color=F4C430&text_color=fff8e1" />
+<a href="https://github.com/mahimrahman/MonHeure">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahimrahman&repo=MonHeure&theme=github_dark&border_color=A11D2C&bg_color=0d1117&title_color=F4C430&icon_color=F4C430&text_color=fff8e1&show_owner=true" />
 </a>
 
 </td>
