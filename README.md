@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f3d,25:A11D2C,55:D7263D,85:F4C430,100:FFF8E1&height=230&section=header&text=Mahimur%20Rahman%20Khan&fontSize=46&fontColor=fff8e1&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Full-Stack%20Developer&descSize=15&descAlignY=60&descColor=fff8e1&fontAlign=50" />
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/straw-hat.jpg" alt="Straw Hat" width="320" />
+<img src="https://raw.githubusercontent.com/mahimrahman/mahimrahman/main/straw-hat.jpg" alt="Straw Hat" width="520" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=D7263D&center=true&vCenter=true&multiline=false&width=720&lines=Designing+systems+that+think.+Interfaces+that+feel.;Java+%E2%86%92+Spring+Boot+%E2%86%92+React+%E2%86%92+TypeScript+%E2%86%92+PostgreSQL;I+build+products+end-to-end%2C+from+DB+to+pixel." alt="Typing SVG" />
 
