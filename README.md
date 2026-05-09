@@ -81,7 +81,7 @@
 <br/>
 
 **Design**&emsp;
-![Figma](https://img.shields.io/badge/Figma-A11D2C?style=flat-square&logo=figma&logoColor=F4C430)
+![figma](https://img.shields.io/badge/Figma-A11D2C?style=flat-square&logo=figma&logoColor=F4C430)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-A11D2C?style=flat-square&logo=adobeillustrator&logoColor=F4C430)
 ![Photoshop](https://img.shields.io/badge/Photoshop-A11D2C?style=flat-square&logo=adobephotoshop&logoColor=F4C430)
 ![Blender](https://img.shields.io/badge/Blender-A11D2C?style=flat-square&logo=blender&logoColor=F4C430)
