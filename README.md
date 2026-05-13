@@ -28,7 +28,7 @@
 
 </div>
 
-> I'm a Software engineer and designer who operates across the full stack — from architecting backends in **Spring Boot** to crafting pixel-perfect UIs in **React & TypeScript**, and designing the systems and interfaces behind them in **Figma**. I care about code that's intentional, products that are useful, and design that gets out of the traditional way.
+> I'm a Software Engineer and designer who operates across the full stack — from architecting backends in **Spring Boot** to crafting pixel-perfect UIs in **React & TypeScript**, and designing the systems and interfaces behind them in **Figma**. I care about code that's intentional, products that are useful, and design that gets out of the traditional way.
 
 <br/>
 
